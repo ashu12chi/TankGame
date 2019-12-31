@@ -3,6 +3,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)<br>
 Simple Tank Game using multithreading in Java
 
+## Link to site
+https://ashu12chi.github.io/TankGame/
+
 ## Libraries Required
 1. [Java SE Development Kit 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
